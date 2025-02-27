@@ -1,0 +1,1 @@
+https://github.com/BenLangmead/aws-indexes/blob/master/docs/bowtie.md
