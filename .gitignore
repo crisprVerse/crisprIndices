@@ -1,1 +1,8 @@
 .DS_Store
+*.ebwt
+*.amb
+*.ann
+*.pac
+*.fa
+*.fai
+00-All.vcf.gz
